@@ -1,0 +1,11 @@
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/boxingUnboxing/obj/Debug/netcoreapp2.2/boxingUnboxing.csprojAssemblyReference.cache
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/boxingUnboxing/obj/Debug/netcoreapp2.2/boxingUnboxing.csproj.CoreCompileInputs.cache
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/boxingUnboxing/obj/Debug/netcoreapp2.2/boxingUnboxing.AssemblyInfoInputs.cache
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/boxingUnboxing/obj/Debug/netcoreapp2.2/boxingUnboxing.AssemblyInfo.cs
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/boxingUnboxing/bin/Debug/netcoreapp2.2/boxingUnboxing.deps.json
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/boxingUnboxing/bin/Debug/netcoreapp2.2/boxingUnboxing.runtimeconfig.json
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/boxingUnboxing/bin/Debug/netcoreapp2.2/boxingUnboxing.runtimeconfig.dev.json
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/boxingUnboxing/bin/Debug/netcoreapp2.2/boxingUnboxing.dll
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/boxingUnboxing/bin/Debug/netcoreapp2.2/boxingUnboxing.pdb
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/boxingUnboxing/obj/Debug/netcoreapp2.2/boxingUnboxing.dll
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/boxingUnboxing/obj/Debug/netcoreapp2.2/boxingUnboxing.pdb
